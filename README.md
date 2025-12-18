@@ -47,4 +47,8 @@
   - Method chaining and grouped aggregation
   - Scatter plotting and regression trendlinse with matplotlib and numpy
   - Quartile-based aggregation & bar chart visualization
+
+## FINAL NOTE
+
+  - If you run the code through colab, please upload the file linked within the repository, thank you!
   
