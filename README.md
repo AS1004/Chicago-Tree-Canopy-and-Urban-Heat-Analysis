@@ -48,7 +48,12 @@
   - Scatter plotting and regression trendlinse with matplotlib and numpy
   - Quartile-based aggregation & bar chart visualization
 
+## Limitations
+
+  - Tree canopy and heat island metrics do not directly measure pollinator populations or species-level ecological health.
+  - The analysis uses a Google Colab–GitHub workflow with a static CSV file, which limits dynamic data updates and automated data ingestion.
+
 ## FINAL NOTE
 
-  - If you run the code through colab, please upload the file linked within the repository, thank you!
+  - Please run through Colab and upload the file linked within the repository, thank you!
   
